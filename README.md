@@ -27,6 +27,7 @@ Este proyecto presenta un análisis de sentimientos realizado sobre el capítulo
 * [Jupyter Notebook - EDA - Analisis de sentimientos](https://github.com/neiluz/IT_Academy_Spring9_Text_mining/blob/main/Spring_9_textMinning.ipynb)
 
 # Sources
-* [VADER Tutorial](https://analyticsindiamag.com/sentiment-analysis-made-easy-using-vader/)
 * [NLTK DataCamp Tutorial](https://www.datacamp.com/tutorial/text-analytics-beginners-nltk)
 * [VADER from NLTK](https://www.nltk.org/api/nltk.sentiment.html)
+* [VADER Tutorial](https://analyticsindiamag.com/sentiment-analysis-made-easy-using-vader/)
+* [Rule-Based Sentiment Analysis Tutorial](https://www.analyticsvidhya.com/blog/2021/06/rule-based-sentiment-analysis-in-python/) 

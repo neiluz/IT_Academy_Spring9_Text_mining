@@ -1,6 +1,6 @@
 # IT_Academy_Spring9_Text_mining
 
-# Un análisis de texto del capítulo 22 "The Path Is the Goal" del libro "When Things Fall Apart: Heart Advice for Difficult Times" de Pema Chodron.
+## Un análisis de texto del capítulo 22 "The Path Is the Goal" del libro "When Things Fall Apart: Heart Advice for Difficult Times" de Pema Chodron.
 Este proyecto presenta un análisis de sentimientos realizado sobre el capítulo 22 "The Path Is the Goal" del libro "When Things Fall Apart: Heart Advice for Difficult Times" de Pema Chodron. El análisis de datos exploratorios y las visualizaciones de datos se crean dentro de un cuaderno Jupyter, incluida una nube de palabras temática. Asi como el analisis de sentimietos
 
 ## Methods Used
